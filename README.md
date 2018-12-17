@@ -1,9 +1,9 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## 00-deployment
 
-### Author: Student/Group Name
+### Author: Tanner Seramur
 
 ### Links and Resources
 * [repo](http://xyz.com)
