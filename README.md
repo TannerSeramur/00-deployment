@@ -8,7 +8,7 @@
 ### Links and Resources
 * [repo](https://github.com/TannerSeramur/00-deployment)
 * [travis](https://www.travis-ci.com/TannerSeramur/00-deployment)
-* [server](http://xyz.com)
+* [server](https://aqueous-cove-64001.herokuapp.com/)
 
 
 ### Modules
