@@ -6,10 +6,10 @@
 ### Author: Tanner Seramur
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/TannerSeramur/00-deployment)
+* [travis](https://www.travis-ci.com/TannerSeramur/00-deployment)
+* [server](http://xyz.com)
+
 
 ### Modules
 #### `modulename.js`
